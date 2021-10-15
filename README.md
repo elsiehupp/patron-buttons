@@ -17,42 +17,50 @@ This repository contains various colorways of the following:
 * 8x5 banners with text but no Patreon logo (i.e. roughly a golden ratio, which WordPress seems to prefer)
 
 <table>
-	<tr>
-		<td>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_black.svg">
-		        <img width="320px" height="200px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_black.svg">
-		    </a>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_black_text_on_coral.svg">
-		        <img width="320px" height="200px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_black_text_on_coral.svg">
-		    </a>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_white.svg">
-		        <img width="320px" height="200px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_white.svg">
-		    </a>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_white_text_on_coral.svg">
-		        <img width="320px" height="200px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_white_text_on_coral.svg">
-		    </a>
-		</td>
-		<td>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_coral_text_on_black.svg">
-		        <img width="400px" height="100px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_coral_text_on_black.svg">
-		    </a>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_white_text_on_black.svg">
-		        <img width="400px" height="100px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_white_text_on_black.svg">
-		    </a>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_black_text_on_coral.svg">
-		        <img width="400px" height="100px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_black_text_on_coral.svg">
-		    </a>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_white_text_on_coral.svg">
-		        <img width="400px" height="100px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_white_text_on_coral.svg">
-		    </a>
-		    <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_coral_text_on_white.svg">
-		        <img width="400px" height="100px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_coral_text_on_white.svg">
-		    </a>
-			<a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_black_text_on_white.svg">
-		        <img width="400px" height="100px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_black_text_on_white.svg">
-		    </a>
-		</td>
-	</tr>
+    <tr>
+        <td>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_black.svg">
+                <img width="160px" height="80px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_black.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_black_text_on_coral.svg">
+                <img width="160px" height="80px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_black_text_on_coral.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_white.svg">
+                <img width="160px" height="80px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_coral_text_on_white.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_white_text_on_coral.svg">
+                <img width="160px" height="80px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_8x5_white_text_on_coral.svg">
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_coral_text_on_black.svg">
+                <img width="200px" height="50px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_coral_text_on_black.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_white_text_on_black.svg">
+                <img width="200px" height="50px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_white_text_on_black.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_black_text_on_coral.svg">
+                <img width="200px" height="50px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_white_logo_black_text_on_coral.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_white_text_on_coral.svg">
+                <img width="200px" height="50px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_white_text_on_coral.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_coral_text_on_white.svg">
+                <img width="200px" height="50px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_black_logo_coral_text_on_white.svg">
+            </a>
+            <br/>
+            <a href="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_black_text_on_white.svg">
+                <img width="200px" height="50px" src="https://github.com/elsiehupp/patron-button/raw/master/svg/become_a_patron_4x1_coral_logo_black_text_on_white.svg">
+            </a>
+        </td>
+    </tr>
 </table>
 
 ## Editing
