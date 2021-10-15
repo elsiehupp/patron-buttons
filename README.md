@@ -7,7 +7,7 @@ This repository contains SVG buttons for linking to a Patreon.
 I made these SVG files because I ran into instances of people using:
 
 1. "Become a Patron" banners that were low-resoluton (i.e. not Retina)
-2. "Become a Patron" banners didn't use Patreon's 2020 brand colors
+2. "Become a Patron" banners that didn't use Patreon's 2020 brand colors
 
 ## Contents
 
