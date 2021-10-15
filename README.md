@@ -63,7 +63,7 @@ You can export these images as PNGs if you want, but the SVGs should work in any
 
 ## Contributing
 
-If you want to add versions of these banners in slightly different aspect ratios, feel free to do a pull request. I will help you clean up the SVG markup to make it as a minimal as possible.
+If you want to add versions of these banners in slightly different aspect ratios, feel free to do a pull request. I will help you clean up the SVG markup to make it as minimal as possible.
 
 ## Example Usage
 
