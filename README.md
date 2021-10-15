@@ -77,6 +77,8 @@ If you use WordPress and add one of these to your `wp-content/uploads` folder, y
 
 Honestly this is just supposed to be a drop-in replacement for whatever asset you already have. Please do not ask me for support.
 
+> **Note:** while it may be technically possible to hotlink these assets from GitHub, I can't guarantee that the resources will remain stable, so you should [download the repository](https://github.com/elsiehupp/patron-buttons/archive/refs/heads/master.zip) and reupload any assets you want to use to your own server.
+
 ## License
 
 These images use Patreon's brand identity (which is trademarked), and if you use them, you must follow [Patreon's brand guidelines](https://www.patreon.com/brand/guidelines).
