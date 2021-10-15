@@ -79,7 +79,7 @@ Honestly this is just supposed to be a drop-in replacement for whatever asset yo
 
 ## License
 
-These images use Patreon brand identity (which is trademarked), and if you use them, you must follow [Patreon's brand guidelines](https://www.patreon.com/brand/guidelines).
+These images use Patreon's brand identity (which is trademarked), and if you use them, you must follow [Patreon's brand guidelines](https://www.patreon.com/brand/guidelines).
 
 These images use the font [GT-America](https://gt-america.com/) (which is used by Patreon's existing "Become a Patron" buttons and is protected by copyright) but do not include a reusable copy of the font.
 
